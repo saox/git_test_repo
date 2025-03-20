@@ -4,3 +4,6 @@ def main(session):
 
 def mike(variable):
     return 2+variable
+
+def cathy(a,b):
+    return a+b
