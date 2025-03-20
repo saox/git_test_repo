@@ -7,6 +7,5 @@ def mike(variable):
 def vikas():
   return 2+6
 
-
 def cathy(a,b):
     return a+b
