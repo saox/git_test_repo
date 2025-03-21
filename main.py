@@ -9,3 +9,6 @@ def vikas():
 
 def cathy(a,b):
     return a+b
+
+def konrad(a,b,c,d):
+    return None
